@@ -1,1 +1,2 @@
-# Blogg(https://malickgalant.github.io/Blogg/app)
+# Blogg
+[(https://malickgalant.github.io/Blogg/app)]
